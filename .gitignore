@@ -1,0 +1,12 @@
+/build
+/.ccls-cache
+/.vscode
+*.swp
+/.cache
+/.cmake
+/cmake-build-debug
+/cmake-build-debug-remote-host
+/CMakeFiles
+/mytest
+/CMakeCache.txt
+/.clion.source.upload.marker
